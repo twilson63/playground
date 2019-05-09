@@ -7,7 +7,7 @@ The purpose of this project is to provide training demos using the browser as th
 ## Usage
 
 ```
-npx degit @twilson63/playground mydemo
+npx degit twilson63/playground mydemo
 cd mydemo
 npm install
 npm start
